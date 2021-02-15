@@ -6,10 +6,10 @@ Jupyter notebook showcasing how to generate interactive maps for key geospatial 
 - **Interactive Mapping.ipynb** contains the core code
 - **Datasets** directory contains sample input data for testing including:
 	- Somaliland_adm1.gpkg
-        - Somaliland_top_20_cities.gpkg
+	- Somaliland_top_20_cities.gpkg
 	- Somaliland_HF_WHO.gpkg
 	- Ethiopia_interconnection.gpkg
-        - Somaliland_GHI_10km.tif
+	- Somaliland_GHI_10km.tif
 - **maps** directory contains sample output map 
 - **geospatial_env.yml** dependencies info in yalm for setting up the environment
 
@@ -27,7 +27,7 @@ git clone https://github.com/akorkovelos/interactive_plotting.git
 
 The notebook has been developed in Python 3. We recommend installing [Anaconda's free distribution](https://www.anaconda.com/distribution/) as suited for your operating system. 
 
-Once installed, open anaconda prompt and move to your local "gep_health_facilities" directory using:
+Once installed, open anaconda prompt and move to your local "interactive_plotting" directory using:
 
 ```
 > cd ..\interactive_plotting
@@ -48,7 +48,7 @@ Once completed, you can now move to the directory and start a "jupyter notebook"
 
 ## Sample output
 
-The sample output of this exersice is located in the maps directory at html. You may also find it online [here](https://datapane.com/u/alexandros/reports/somaliland-test-map)
+The sample output of this exersice is located in the maps directory at html. You may also find it online [here](https://datapane.com/u/alexandros/reports/somaliland-test-map).
 
 
 ## Credits
