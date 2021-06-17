@@ -11,7 +11,7 @@ Jupyter notebook showcasing how to generate interactive maps for key geospatial 
 	- Ethiopia_interconnection.gpkg
 	- Somaliland_GHI_10km.tif
 - **maps** directory contains sample output map 
-- **geospatial_env.yml** dependencies info in yalm for setting up the environment
+- **inter_plot_env.yml** dependencies info in yalm for setting up the environment
 
 ## Setting up the environment & running the model
 
@@ -36,10 +36,27 @@ Once installed, open anaconda prompt and move to your local "interactive_plottin
 In order to be able to run the notebook you should either install necessary packages or the environment. You can do this using the yml file as follows:
 
 ```
-conda env create -f geospatial_env.yml
+conda env create --file inter_plot_env.yml
 ```
 
-Once completed, you can now move to the directory and start a "jupyter notebook" session by simply typing:
+In case this doesn't work, you can install the necessary libraries manually (check the requirements.txt). Indicatively you may install these as follows:
+
+```
+**pandas** --> conda install -c anaconda pandas
+**pyproj** --> conda install -c esri pyproj
+**matplotlib** --> conda install -c conda-forge/label/cf202003 matplotlib
+**geopandas** --> conda install -c conda-forge/label/dev geopandas
+**folium** --> conda install -c conda-forge folium
+**branca** --> conda install -c conda-forge branca
+```
+
+
+Once completed, you can activate the environment using the following command:
+```
+..\conda activate inter_plot_env
+```
+
+Finnaly, you can now move to the directory and start a "jupyter notebook" session by simply typing:
 
 ```
 ..\interactive_plotting> jupyter notebook 

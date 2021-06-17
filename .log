@@ -1,0 +1,160 @@
+2021-06-17 15:56:42,854 [23360] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-06-17 15:56:42,854 [23360] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-06-17 15:56:42,854 [23360] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-06-17 15:56:42,857 [23360] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-06-17 15:56:42,858 [23360] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-06-17 15:56:42,859 [23360] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-06-17 15:56:44,886 [23360] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: bzr
+2021-06-17 15:56:44,887 [23360] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: git
+2021-06-17 15:56:44,888 [23360] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: hg
+2021-06-17 15:56:44,889 [23360] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: svn
+2021-06-17 16:06:16,206 [21372] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-06-17 16:06:16,207 [21372] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-06-17 16:06:16,207 [21372] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-06-17 16:06:16,209 [21372] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-06-17 16:06:16,210 [21372] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-06-17 16:06:16,210 [21372] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-06-17 16:06:18,256 [21372] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: bzr
+2021-06-17 16:06:18,258 [21372] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: git
+2021-06-17 16:06:18,259 [21372] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: hg
+2021-06-17 16:06:18,260 [21372] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: svn
+2021-06-17 16:14:51,325 [22440] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-06-17 16:14:51,325 [22440] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-06-17 16:14:51,325 [22440] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-06-17 16:14:51,328 [22440] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-06-17 16:14:51,329 [22440] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-06-17 16:14:51,329 [22440] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-06-17 16:14:53,359 [22440] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: bzr
+2021-06-17 16:14:53,360 [22440] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: git
+2021-06-17 16:14:53,361 [22440] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: hg
+2021-06-17 16:14:53,363 [22440] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: svn
+2021-06-17 16:15:01,762 [4680] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-06-17 16:15:01,763 [4680] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-06-17 16:15:01,763 [4680] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-06-17 16:15:01,766 [4680] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-06-17 16:15:01,767 [4680] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-06-17 16:15:01,767 [4680] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-06-17 16:15:03,807 [4680] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: bzr
+2021-06-17 16:15:03,809 [4680] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: git
+2021-06-17 16:15:03,810 [4680] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: hg
+2021-06-17 16:15:03,812 [4680] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: svn
+2021-06-17 16:16:40,817 [19636] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-06-17 16:16:40,817 [19636] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-06-17 16:16:40,817 [19636] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-06-17 16:16:40,820 [19636] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-06-17 16:16:40,820 [19636] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-06-17 16:16:40,821 [19636] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-06-17 16:16:42,836 [19636] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: bzr
+2021-06-17 16:16:42,837 [19636] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: git
+2021-06-17 16:16:42,837 [19636] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: hg
+2021-06-17 16:16:42,839 [19636] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: svn
+2021-06-17 16:21:05,945 [24384] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-06-17 16:21:05,945 [24384] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-06-17 16:21:05,946 [24384] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-06-17 16:21:05,949 [24384] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-06-17 16:21:05,950 [24384] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-06-17 16:21:05,951 [24384] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-06-17 16:21:08,034 [24384] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: bzr
+2021-06-17 16:21:08,035 [24384] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: git
+2021-06-17 16:21:08,036 [24384] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: hg
+2021-06-17 16:21:08,037 [24384] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: svn
+2021-06-17 16:21:31,782 [24204] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-06-17 16:21:31,782 [24204] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-06-17 16:21:31,782 [24204] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-06-17 16:21:31,785 [24204] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-06-17 16:21:31,785 [24204] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-06-17 16:21:31,786 [24204] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-06-17 16:21:33,787 [24204] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: bzr
+2021-06-17 16:21:33,788 [24204] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: git
+2021-06-17 16:21:33,789 [24204] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: hg
+2021-06-17 16:21:33,792 [24204] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: svn
+2021-06-17 16:24:56,051 [19420] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-06-17 16:24:56,052 [19420] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-06-17 16:24:56,052 [19420] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-06-17 16:24:56,055 [19420] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-06-17 16:24:56,056 [19420] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-06-17 16:24:56,057 [19420] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-06-17 16:24:58,023 [19420] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: bzr
+2021-06-17 16:24:58,024 [19420] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: git
+2021-06-17 16:24:58,025 [19420] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: hg
+2021-06-17 16:24:58,026 [19420] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: svn
+2021-06-17 16:27:31,644 [18140] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-06-17 16:27:31,645 [18140] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-06-17 16:27:31,645 [18140] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-06-17 16:27:31,648 [18140] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-06-17 16:27:31,649 [18140] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-06-17 16:27:31,649 [18140] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-06-17 16:27:33,602 [18140] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: bzr
+2021-06-17 16:27:33,602 [18140] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: git
+2021-06-17 16:27:33,603 [18140] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: hg
+2021-06-17 16:27:33,604 [18140] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: svn
+2021-06-17 16:28:39,468 [4656] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-06-17 16:28:39,469 [4656] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-06-17 16:28:39,469 [4656] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-06-17 16:28:39,471 [4656] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-06-17 16:28:39,472 [4656] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-06-17 16:28:39,473 [4656] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-06-17 16:28:41,488 [4656] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: bzr
+2021-06-17 16:28:41,489 [4656] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: git
+2021-06-17 16:28:41,490 [4656] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: hg
+2021-06-17 16:28:41,491 [4656] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: svn
+2021-06-17 16:30:21,792 [8304] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-06-17 16:30:21,792 [8304] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-06-17 16:30:21,792 [8304] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-06-17 16:30:21,794 [8304] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-06-17 16:30:21,795 [8304] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-06-17 16:30:21,795 [8304] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-06-17 16:30:23,809 [8304] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: bzr
+2021-06-17 16:30:23,810 [8304] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: git
+2021-06-17 16:30:23,810 [8304] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: hg
+2021-06-17 16:30:23,811 [8304] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: svn
+2021-06-17 16:33:56,809 [23744] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-06-17 16:33:56,809 [23744] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-06-17 16:33:56,810 [23744] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-06-17 16:33:56,813 [23744] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-06-17 16:33:56,813 [23744] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-06-17 16:33:56,813 [23744] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-06-17 16:33:58,842 [23744] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: bzr
+2021-06-17 16:33:58,843 [23744] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: git
+2021-06-17 16:33:58,844 [23744] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: hg
+2021-06-17 16:33:58,845 [23744] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: svn
+2021-06-17 16:38:47,454 [22684] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-06-17 16:38:47,454 [22684] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-06-17 16:38:47,454 [22684] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-06-17 16:38:47,457 [22684] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-06-17 16:38:47,458 [22684] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-06-17 16:38:47,458 [22684] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-06-17 16:38:49,481 [22684] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: bzr
+2021-06-17 16:38:49,481 [22684] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: git
+2021-06-17 16:38:49,483 [22684] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: hg
+2021-06-17 16:38:49,484 [22684] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: svn
+2021-06-17 16:41:43,118 [10824] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-06-17 16:41:43,118 [10824] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-06-17 16:41:43,118 [10824] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-06-17 16:41:43,121 [10824] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-06-17 16:41:43,123 [10824] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-06-17 16:41:43,123 [10824] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-06-17 16:41:45,162 [10824] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: bzr
+2021-06-17 16:41:45,163 [10824] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: git
+2021-06-17 16:41:45,164 [10824] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: hg
+2021-06-17 16:41:45,165 [10824] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: svn
+2021-06-17 16:42:44,943 [10992] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-06-17 16:42:44,944 [10992] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-06-17 16:42:44,944 [10992] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-06-17 16:42:44,947 [10992] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-06-17 16:42:44,948 [10992] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-06-17 16:42:44,948 [10992] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-06-17 16:42:46,923 [10992] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: bzr
+2021-06-17 16:42:46,924 [10992] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: git
+2021-06-17 16:42:46,925 [10992] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: hg
+2021-06-17 16:42:46,926 [10992] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: svn
+2021-06-17 17:17:23,745 [23916] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-06-17 17:17:23,746 [23916] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-06-17 17:17:23,746 [23916] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-06-17 17:17:23,749 [23916] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-06-17 17:17:23,749 [23916] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-06-17 17:17:23,750 [23916] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-06-17 17:17:25,983 [23916] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: bzr
+2021-06-17 17:17:25,984 [23916] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: git
+2021-06-17 17:17:25,985 [23916] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: hg
+2021-06-17 17:17:25,986 [23916] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: svn
